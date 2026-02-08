@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ageha",
+  "base_artist": "john",
+  "createdAt": "2026-02-08T03:50:15.018616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AGEHA STAINED",
+      "artist": "-MASA Works DESIGN-",
+      "has_synced": true,
+      "path": "select/01_AGEHA_STAINED_-MASA_Works_DESIGN-.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skyreach Feat. ＊Ageha (dj-Jo Remix) Instrumental",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/02_Skyreach_Feat.__Ageha_(dj-Jo_Remix)_Instrumental_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skyreach Feat. ＊Ageha (dj-Jo Remix)",
+      "artist": "dj-Jo",
+      "has_synced": true,
+      "path": "select/03_Skyreach_Feat.__Ageha_(dj-Jo_Remix)_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oborona Ageha",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/04_Oborona_Ageha_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AGEHA",
+      "artist": "GEZAN",
+      "has_synced": false,
+      "path": "select/05_AGEHA_GEZAN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AGEHA GLOW",
+      "artist": "-MASA Works DESIGEN-",
+      "has_synced": true,
+      "path": "select/06_AGEHA_GLOW_-MASA_Works_DESIGEN-.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "AGEHA GLOW",
+      "artist": "-MASA Works DESIGEN-",
+      "has_synced": true,
+      "path": "select/07_AGEHA_GLOW_-MASA_Works_DESIGEN-.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "AGEHA GLOW",
+      "artist": "MASA WORKS DESIGN",
+      "has_synced": false,
+      "path": "select/08_AGEHA_GLOW_MASA_WORKS_DESIGN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ageha",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/09_Ageha_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ageha Twilight",
+      "artist": "富田美憂",
+      "has_synced": false,
+      "path": "select/10_Ageha_Twilight_富田美憂.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MACABRE -Sanagi no Yume wa Ageha no Hane-",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/11_MACABRE_-Sanagi_no_Yume_wa_Ageha_no_Hane-_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "AGEHA",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/12_AGEHA_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "AGEHA GLOW",
+      "artist": "MASA WORKS DESIGN",
+      "has_synced": false,
+      "path": "select/13_AGEHA_GLOW_MASA_WORKS_DESIGN.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oborona Ageha",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/14_Oborona_Ageha_Orange_Range.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ageha",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_ageha_John.txt"
+    }
+  ]
+}
